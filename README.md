@@ -2,7 +2,7 @@
 
 This repository implements a learned image compression framework based on **CompressAI**, enhanced with **HiFiC (High-Fidelity Compression)** training strategies. It features a custom **RRDB-based Refinement Module** and uses **ICNR Initialization** to achieve high-quality, artifact-free image reconstruction.
 
-![](D:\LocalUser\Downloads\eval_results\flowerbed_1_GAN_0.4019bpp_0.1045lpips.png)
+![Visual Comparison](./readme_comparison_optimized.jpg)
 
 *"As shown in the picture `flowerbed_1_GAN_0.4019bpp_0.1045lpips`, this image represents the output of our GAN model on the flowerbed test sample. The model achieves a bit rate of roughly 0.4 bpp while maintaining high perceptual quality, evidenced by the low LPIPS score of 0.1045."*
 
