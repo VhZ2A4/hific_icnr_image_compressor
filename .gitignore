@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Checkpoints
+data/
+checkpoints/
+results/
+*.pth
+*.pt
+
+# Environment
+.env
+venv/
+jpeg_env/
+.idea/
+.vscode/
