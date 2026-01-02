@@ -1,6 +1,12 @@
 # HiFiC-ICNR: Generative Image Compression with Refined Reconstruction
 
-![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+> This repository contains demonstration/experimental code and is **not intended for production use**.
+> 
+> The author has no plans to update or maintain this codebase. Feel free to fork or download it for educational purposes.
+
+![Maintenance Status](https://img.shields.io/maintenance/no/2026)
+
+![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
 This repository implements a learned image compression framework based on **CompressAI**, enhanced with **HiFiC (High-Fidelity Compression)** training strategies. It features a custom **RRDB-based Refinement Module** and uses **ICNR Initialization** to achieve high-quality, artifact-free image reconstruction.
 
